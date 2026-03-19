@@ -1,1 +1,1 @@
-# RTA_MS
+# Real-Time Analytics - Course Repository
